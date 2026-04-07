@@ -1,5 +1,5 @@
 aid: office-of-career-technical-and-adult-education
-url: >-
+url: >2-
 
   https://raw.githubusercontent.com/api-evangelist/office-of-career-technical-and-adult-education/refs/heads/main/apis.yml
 name: Office of Career, Technical, and Adult Education
@@ -12,18 +12,11 @@ created: '2024-12-03'
 modified: '2026-03-16'
 position: Consuming
 description: >-
-  The Office of Career, Technical, and Adult Education is a government agency
-  that focuses on providing resources and support to individuals seeking to
-  further their education and career opportunities. This office offers programs
-  and initiatives that are designed to help adults acquire the skills and
-  knowledge needed to succeed in the workforce. They work closely with schools,
-  training centers, and employers to develop training programs and
-  certifications that align with the needs of industries and businesses.
-  Additionally, the office helps adults explore career pathways and access
-  resources for job searching, resume building, and interview preparation.
-  Overall, the Office of Career, Technical, and Adult Education plays a crucial
-  role in empowering individuals to reach their full potential and achieve their
-  career goals.
+  The Office of Career, Technical, and Adult Education is a government agency that
+  focuses on providing resources and support to individuals seeking to further their
+  education and career opportunities. This office offers programs and initiatives
+  that are designed to help adults acquire the skills and knowledge needed to succeed
+  in the workforce.
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
