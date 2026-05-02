@@ -17,11 +17,11 @@ https://raw.githubusercontent.com/api-evangelist/office-of-career-technical-and-
 ## Timestamps
 
 - **Created:** 2024-12-03 
-- **Modified:** 2025-01-02 
+- **Modified:** 2026-04-28 
 
 ## Maintainers
 
 **FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
 
