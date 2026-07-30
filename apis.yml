@@ -6,7 +6,18 @@ name: Office of Career, Technical, and Adult Education
 tags:
   - Federal Government
 kind: contract
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/office-of-career-technical-and-adult-education.png
 access: 3rd-Party
 created: '2024-12-03'
 modified: '2026-04-28'
