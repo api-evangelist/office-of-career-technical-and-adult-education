@@ -1,4 +1,4 @@
-# Office of Career, Technical, and Adult Education (office-of-career-technical-and-adult-education)
+# Office of Career, Technical, and Adult Education
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,29 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Office of Career, Technical, and Adult Education is a government agency that focuses on providing resources and support to individuals seeking to further their education and career opportunities. This office offers programs and initiatives that are designed to help adults acquire the skills and knowledge needed to succeed in the workforce. They work closely with schools, training centers, and employers to develop training programs and certifications that align with the needs of industries and businesses. Additionally, the office helps adults explore career pathways and access resources for job searching, resume building, and interview preparation. Overall, the Office of Career, Technical, and Adult Education plays a crucial role in empowering individuals to reach their full potential and achieve their career goals.
+The Office of Career, Technical, and Adult Education is a government agency that focuses on providing resources and support to individuals seeking to further their education and career opportunities. This office offers programs and initiatives that are designed to help adults acquire the skills and knowledge needed to succeed in the workforce.
 
-**URL:** [Visit APIs.json URL](
-https://raw.githubusercontent.com/api-evangelist/office-of-career-technical-and-adult-education/refs/heads/main/apis.yml)
+**Areas:** Federal Government
 
-## Scope
+## Office of Career, Technical, and Adult Education on APIs.io
 
-- **Type:** Contract 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for Office of Career, Technical, and Adult Education is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/office-of-career-technical-and-adult-education/](https://apis.io/providers/office-of-career-technical-and-adult-education/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+## API Evangelist rating
 
- - Federal Government
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-## Timestamps
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-- **Created:** 2024-12-03 
-- **Modified:** 2026-04-28 
+## How this profile is made
 
-## Maintainers
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-**FN:** Kin Lane
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Office of Career, Technical, and Adult Education: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-**Email:** kin@apievangelist.com
+## Open an issue
 
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/office-of-career-technical-and-adult-education/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
